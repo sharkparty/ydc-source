@@ -51,6 +51,15 @@ everything else.
 | [Timelines and Open Questions](timelines-and-open-questions.md) | Explicitly speculative: patterns in the timing of foreign-policy shocks against domestic legal pressure |
 | [Appendix: Unattached Sources](appendix-unattached-sources.md) | Links that arrived with the research but support no claim here — preserved, labeled, and kept out of the citations |
 
+### Polemic
+
+Opinion, not reference. Every fact in it links back to a sourced entry above;
+the tone is deliberately not neutral.
+
+| Document | What's in it |
+| --- | --- |
+| [You Didn't Care](you-didnt-care.md) | The whole record, in order, addressed to the people who voted for it anyway |
+
 ## Scope and status
 
 The bulk of the first-term material was compiled between 2016 and mid-2020, with

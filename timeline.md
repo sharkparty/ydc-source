@@ -91,6 +91,7 @@ The controversies shift from private business disputes to constitutional ones.
 | 2025 (Apr 9) | [Personal] | **"THIS IS A GREAT TIME TO BUY!!!"** — posted hours before the tariff pause. ([Self-Enrichment](self-enrichment-and-ethics.md#7-the-tariff-pause-trade)) |
 | 2025 (Apr) | [Personal] | **Paul Walczak pardoned** three weeks after his mother attended a $1M-a-head Mar-a-Lago dinner. ([Pardons](pardons-and-clemency.md#paul-walczak--three-weeks-after-the-dinner)) |
 | 2025 (Apr) | [Personal] | **The Reflecting Pool renovation** begins. ([Public Institutions](public-institutions-and-monuments.md#2-the-lincoln-memorial-reflecting-pool)) |
+| 2025 (May 22) | [Personal] | **The memecoin dinner** — the top 220 $TRUMP buyers, most apparently overseas, spend a combined $148 million for dinner with the president. ([Self-Enrichment](self-enrichment-and-ethics.md#the-dinner)) |
 | 2025 (May) | [International] | **The Qatari 747** is accepted after Trump's visit to Qatar. ([Foreign Money](foreign-money-and-emoluments.md#3-qatar-the-400-million-airplane)) |
 | 2025 (Jun) | [International] | **First strikes on Iranian nuclear sites**, without congressional authorization. ([War Powers](war-powers-and-military-strikes.md#3-war-with-iran-without-authorization)) |
 | 2025 (Jul 1) | [National] | USAID formally ceases operations. |

@@ -129,6 +129,65 @@ minority committee report is an allegation by political opponents rather than an
 adjudication. The ownership structure, the launch, and the investor losses are
 not in dispute.
 
+### The dinner
+
+In April 2025 the coin's promoters announced a contest: the **top 220 holders**
+would get dinner with the president, and the **top 25** a private reception and
+guided tour. It was billed as "the most exclusive invitation in the world." The
+price is set by the leaderboard, so the invitation goes to whoever buys the
+most.
+([FXStreet, on the announcement](https://www.fxstreet.com/cryptocurrencies/news/trump-meme-coin-rallies-following-announcement-of-president-trumps-upcoming-dinner-with-top-220-holders-202504232050))
+
+**The spend.** The 220 winning buyers spent a combined **$148 million** on the
+coin to qualify. The contest was a trading event in its own right: Chainalysis
+found the wallets linked to the coin's creators collected **nearly $900,000 in
+trading fees in two days** of the contest, and about **$324.5 million** in fees
+since launch.
+([CNBC](https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html),
+[same report, mirrored](https://www.nbcconnecticut.com/news/business/money-report/at-trumps-148-million-meme-coin-dinner-the-food-sucked-and-security-was-lax/3572365/),
+[NBC News, on the fees](https://www.nbcnews.com/tech/crypto/trumps-memecoin-dinner-contest-earns-insiders-900000-two-days-rcna203071))
+
+**The guests.** Most of the leaderboard appeared to be overseas. A Bloomberg
+analysis found that 19 of the top 25 wallets, and more than half of the top 220,
+used foreign exchanges nominally closed to U.S. users. The administration
+declined to release a guest list. Asked about it, press secretary Karoline
+Leavitt said: "The president is attending it in his personal time. It is not a
+White House dinner."
+
+At least one buyer said openly what the money was for. **Freight Technologies**,
+a Nasdaq-listed penny stock, disclosed in an SEC filing that it spent **$2
+million** on the coin **to push U.S.–Mexico trade policy**. It finished 250th and
+missed the dinner.
+([CNBC](https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html),
+[Malay Mail, reporting the Bloomberg analysis](https://malaymail.com/news/world/2025/05/23/wealthy-foreign-crypto-investors-descend-on-trumps-golf-club-for-us148m-trump-meme-coin-dinner-raising-concerns-over-foreign-influence-in-us-politics/177808),
+[CNN, on anonymity](https://www.cnn.com/2025/05/22/business/trump-memecoin-dinner-nightcap))
+
+The top holder, by his own account, was **Justin Sun**, the Chinese-born founder
+of Tron, who held more than $22 million in the coin. The SEC had charged him in
+2023 with fraudulently manipulating the price of his own token. The case was
+paused in February 2025, with the agency citing "the public interest," shortly
+after he bought **$75 million** in tokens from World Liberty Financial, the
+Trump family crypto venture. His post the next day: "Thank you @POTUS for your
+unwavering support of our industry!"
+([CNBC](https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html),
+[NBC News](https://www.nbcnews.com/business/business-news/trump-coin-crypto-dinner-who-is-top-holder-justin-sun-rcna207983),
+[CNN, on the reprieve](https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-fraud-charges/index.html))
+
+**The event.** May 22, 2025, at Trump National Golf Club in Potomac Falls,
+Virginia. According to one attendee, the president stayed 23 minutes, gave a
+short speech, and left by helicopter without taking questions or photographs.
+About a hundred protesters gathered outside the gates. The coin fell 16% within
+hours.
+([CNBC](https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html))
+
+**Why it belongs here.** Presidential access has been sold before, through
+donors, fundraisers and inaugural committees, but those payments are disclosed
+and fall under campaign-finance law, which bars foreign money. This sold access
+by auction, to anonymous and largely foreign buyers, through an asset his own
+trust mostly owned. The buying pushed up the value of his holdings, and every
+trade paid fees to wallets linked to the coin's creators. None of it went into a
+campaign account.
+
 ---
 
 ## 7. The tariff-pause trade
